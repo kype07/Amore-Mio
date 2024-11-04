@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { src: 'media/Michele Bravi - Il Diario Degli Errori (Sanremo 2017).mp3', title: 'Il Diario Degli Errori', artist: 'Michele Bravi' },
         { src: "media/Max Gazzè - La Vita Com'è.mp3", title: "La Vita Com'è", artist: "Max Gazzè" },
         { src: "media/Mannarino _ Me so'mbriacato.mp3", title: "Me so'mbriacato", artist: "Mannarino" },
+        { src: "media/ALFA - il filo rosso.mp3", title: "il filo rosso", artist: "ALFA" },
         
     ];
 
